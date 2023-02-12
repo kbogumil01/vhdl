@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/karol/Desktop/bog_zem/bog_zem.srcs/sources_1/new/change_wariant.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'change_wariant'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/karol/Desktop/bog_zem/bog_zem.srcs/sources_1/new/debouncer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'debouncer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/karol/Desktop/bog_zem/bog_zem.srcs/sources_1/new/v_controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'v_controller'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/karol/Desktop/bog_zem/bog_zem.srcs/sources_1/new/main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'main'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/karol/Desktop/bog_zem/bog_zem.srcs/sim_1/new/main_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'main_tb'
